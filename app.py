@@ -34,7 +34,7 @@ def voice_to_voice(audio_file):
 
 # Function to transcribe audio using AssemblyAI
 def transcribe_audio(audio_file):
-    aai.settings.api_key = "d6006b974a26450e92989864799686c4"
+    aai.settings.api_key = "your api key"
 
     transcriber = aai.Transcriber()
     transcript = transcriber.transcribe(audio_file)
@@ -57,7 +57,7 @@ def translate_text(text: str) -> list:
 # Function to generate speech
 def text_to_speech(text: str) -> str:
     client = ElevenLabs(
-        api_key="sk_398ddbdca1c4aae101d1a24e6e9481830916a91b31db8549",
+        api_key="your api key",
     )
 
     response = client.text_to_speech.convert(
