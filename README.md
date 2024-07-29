@@ -68,7 +68,7 @@ To add a video demo to your README, you can follow these steps:
 
    Watch the video demonstration below to see how the Unesis Voice Translator works:
 
-   [![Unesis Voice Translator Demo](http://img.youtube.com/vi/your_video_id/0.jpg)](http://www.youtube.com/watch?v=your_video_id)
+   [![Unesis Voice Translator Demo](http://img.youtube.com/vi/your_video_id/0.jpg)](https://youtu.be/VwOvStFfGxc?si=-L_v1Nlx4YohVe_o)
    ```
 
 
